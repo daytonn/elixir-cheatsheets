@@ -49,4 +49,4 @@ Documentation
 * [Ecto Migrations](https://hexdocs.pm/ecto_sql/Ecto.Migration.html)
 * [Phoenix](https://hexdocs.pm/phoenix/Phoenix.html)
 * [LiveView](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html)
-* [EctoResource](https://hexdocs.pm/ecto_resource/EctoResource.html)
+* [EctoResource](https://hexdocs.pm/ecto_resource/readme.html)
